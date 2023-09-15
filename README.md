@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Arrifqi</h1>
-<h3 align="center">A passionate Backend Developer and Software Quality Assurance from Indonesia</h3>
+<h3 align="center">A passionate Software Quality Assurance from Indonesia</h3>
 <img align="right" alt="Coding" width="400" src="https://c.tenor.com/flflC6GFzO8AAAAd/sultan-alrefaei-programmer.gif">
 
 
 - 🔭 I’m currently working in [PT BFI Finance Indonesia, Tbk](https://www.linkedin.com/company/pt-bfi-finance-indonesia-tbk/mycompany/)
 
-- 🌱 I’m currently learning **Backend -> Kotlin, SQA -> Katalon**
+- 🌱 Software Quality Assurance Engineer -> Cypress, Appium, Katalon**
 
 - 📫 How to reach me **arrifqiaziz@gmail.com**
 
